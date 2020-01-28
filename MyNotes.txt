@@ -1,13 +1,13 @@
-Build your own hand sign recogniser with TensorFlow.js [WORKSHOP]
-Asim Hussain
+# Build your own hand sign recogniser with TensorFlow.js [WORKSHOP] #
+## Asim Hussain ##
 
-https://www.meetup.com/AI-JavaScript-London/events/267883735/
+- https://www.meetup.com/AI-JavaScript-London/events/267883735/
 
-https://github.com/jawache/emoji-trainer # see readme.me
+- [ ]https://github.com/jawache/emoji-trainer # see readme.me
 
-https://www.tensorflow.org/js
+- https://www.tensorflow.org/js
 
-#Outputs https://github.com/tensorflow/tfjs-models/blob/master/mobilenet/src/imagenet_classes.ts
+- #Outputs https://github.com/tensorflow/tfjs-models/blob/master/mobilenet/src/imagenet_classes.ts
 
 Mobilenet is the main neural network
 Remove final(s) layers
