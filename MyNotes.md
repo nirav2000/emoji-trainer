@@ -3,7 +3,7 @@
 
 - https://www.meetup.com/AI-JavaScript-London/events/267883735/
 
-- [ ]https://github.com/jawache/emoji-trainer # see readme.me
+ - [ ]https://github.com/jawache/emoji-trainer # see readme.me
 
 - https://www.tensorflow.org/js
 
