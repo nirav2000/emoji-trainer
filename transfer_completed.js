@@ -58,7 +58,8 @@ async function run() {
         if (numClasses > 0) {
             // If classes have been added run predict
             const image = await CAMERA.capture();
-            let logits = MBNET.infer(image, "conv_preds");
+            // **** get the raw numbers form the (previous layer) called conv-preds within mobilenet
+            let logits = MBNET.infer(image, "conv_preds"); 
             const res = await KNN.predictClass(logits, TOPK);
             console.log(res)
             output.innerText = res.label;
