@@ -1,4 +1,5 @@
-# Build your own hand sign recogniser with TensorFlow.js [WORKSHOP] # ## Asim Hussain ##
+# Build your own hand sign recogniser with TensorFlow.js [WORKSHOP]
+## Asim Hussain ##
 
 - https://www.meetup.com/AI-JavaScript-London/events/267883735/
 
